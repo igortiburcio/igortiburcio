@@ -6,8 +6,8 @@
 
 ### Sobre Mim
 
-- 👋 Olá, Eu sou o @igortiburcio, ou melhor, Igor Tiburcio Cavalcanti.
-Sou um desenvolver Full-stack. Seja muito bem-vindo.
+- 👋 Olá, Eu sou o @duduisonfire, ou melhor, Igor Tiburcio Cavalcanti.
+Atualmente sou desenvolvedor de software na Juridico.ai. Seja muito bem-vindo.
 
 ### Ferramentas e Tecnologias
  
@@ -24,7 +24,7 @@ Sou um desenvolver Full-stack. Seja muito bem-vindo.
 ### About me
 
 - 👋 Hi, I'm @duduisonfire, or rather, Igor Tiburcio Cavalcanti.
-I'm a Full-stack Developer. Be very welcome.
+I am currently a software developer at Juridico.ai. Be very welcome.
 
 ### Technologies
 
