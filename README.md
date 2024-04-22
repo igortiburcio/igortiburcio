@@ -1,12 +1,12 @@
 <div>
 <a href="https://github.com/duduisonfire">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduisonfire&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=duduisonfire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igortiburcio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=igortiburcio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Sobre Mim
 
-- 👋 Olá, Eu sou o @duduisonfire, ou melhor, Igor Tiburcio Cavalcanti.
+- 👋 Olá, Eu sou o @igortiburcio, ou melhor, Igor Tiburcio Cavalcanti.
 Sou um desenvolver Full-stack. Seja muito bem-vindo.
 
 ### Ferramentas e Tecnologias
