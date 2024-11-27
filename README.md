@@ -11,7 +11,7 @@ Atualmente sou desenvolvedor de software na Juridico.ai. Seja muito bem-vindo.
 
 ### Ferramentas e Tecnologias
  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,nestjs,nodejs,postgres,redis)](https://github.com/igortiburcio/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,nestjs,nodejs,postgres,redis,rabbitmq,aws,bun,firebase,flutter,go,dart)](https://github.com/igortiburcio/)
 
 ### Contatos:
 <div>
@@ -28,7 +28,7 @@ I am currently a software developer at Juridico.ai. Be very welcome.
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,nestjs,nodejs,postgres,redis)](https://github.com/igortiburcio/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,nestjs,nodejs,postgres,redis,rabbitmq,aws,bun,firebase,flutter,go,dart)](https://github.com/igortiburcio/)
 
 ### Contacts:
 
