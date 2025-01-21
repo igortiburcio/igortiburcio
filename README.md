@@ -6,7 +6,7 @@
 
 ### Sobre Mim
 
-- 👋 Olá, Eu sou o @duduisonfire, ou melhor, Igor Tiburcio Cavalcanti.
+- 👋 Olá, Eu sou o Igor Tiburcio Cavalcanti.
 Atualmente sou desenvolvedor de software na Juridico.ai. Seja muito bem-vindo.
 
 ### Ferramentas e Tecnologias
@@ -23,7 +23,7 @@ Atualmente sou desenvolvedor de software na Juridico.ai. Seja muito bem-vindo.
 ---
 ### About me
 
-- 👋 Hi, I'm @duduisonfire, or rather, Igor Tiburcio Cavalcanti.
+- 👋 Hi, I'm Igor Tiburcio Cavalcanti.
 I am currently a software developer at Juridico.ai. Be very welcome.
 
 ### Technologies
